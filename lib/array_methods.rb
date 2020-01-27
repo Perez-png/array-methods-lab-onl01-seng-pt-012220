@@ -3,7 +3,7 @@ def using_include (array,
   array.include"(element)
   end
   
-  def using_include(array, element)
+def using_include(array, element)
 
 end
 
